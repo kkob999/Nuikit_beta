@@ -1,0 +1,42 @@
+.node{
+    width: 88px;
+    height: 40px;
+}
+
+.node-heading{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.node-name{
+    margin-left: 10%;
+}
+
+.gen-txt{
+    color:  #8850EA;
+    font-size: 12px;
+}
+
+.spec-txt{
+    color:  #FF7D0F;
+    font-size: 12px;
+}
+
+input{
+    padding: 0%;
+    margin: 0;
+    margin-right: 10%;
+}
+
+.gen-node{
+    border: 1px solid #8850EA;
+    border-radius: 5px;
+}
+
+.spec-node{
+    border: 1px solid #FF7D0F;
+    border-radius: 5px;
+}
